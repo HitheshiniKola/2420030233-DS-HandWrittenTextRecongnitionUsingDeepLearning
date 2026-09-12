@@ -1,1 +1,1 @@
-# 2420030233-DS-ImageClassification
+# 2420030233-DS-HandWrittenTextRecognitionUsingDeppLearning
