@@ -1,1 +1,1 @@
-# 2420030233-DS-HandWrittenTextRecognitionUsingDeppLearning
+# 2420030233-DS-HandWrittenTextRecognitionUsingDeepLearning
